@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Backstory  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Character  ",
+      "color": {
+        "a": 1,
+        "rgb": 2966144
+      }
+    },
+    {
+      "query": "tag:#Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 4674859
+      }
+    },
+    {
+      "query": "tag:#Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 4404525
+      }
+    },
+    {
+      "query": "tag:#Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.77520345052083,
+  "lineSizeMultiplier": 1.39239095052083,
+  "collapse-forces": false,
+  "centerStrength": 0.552083333333333,
+  "repelStrength": 14.0625,
+  "linkStrength": 0.541666666666667,
+  "linkDistance": 248,
+  "scale": 0.7132754626224491,
+  "close": true
+}
